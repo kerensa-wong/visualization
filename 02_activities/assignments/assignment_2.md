@@ -46,7 +46,7 @@
       Reference:
       Tufte, E. R. (1983). The Visual Display of Quantitative Information.
       Cairo, A. (2012). The Functional Art: An Introduction to Information Graphics and Visualization.
-      World Wide Web Consortium (W3C). Web Content Accessibility Guidelines (WCAG)
+      World Wide Web Consortium (W3C). Web Content Accessibility Guidelines (WCAG) 
 
 
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
