@@ -10,10 +10,19 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      For example of a Good Data Visualization: Daniel Foster's CO2 Emissions Over Time ![alt text](image.png)
+      - Perceptual and Substantive: Line charts fit time-series data, and make trends easy to follow
+      - Clear title and labels, and simple designs to avoid clutter (reference: Tufte)
+      - Aesthetic: Colors are distinct and consistent, aiding readibility
+      - When hover over each location on the map it can show the name of location and its CO2 per capita, aiding exploration
 
 
+      For example of a Bad Data Visualiztion: Ian's Toronto Blue Jays Home Runs ![alt text](image-1.png)
 
+      - Substantive: it does not accurately represent the data as y-axis "Running Sum of Home Runs" implies a cumulative progression over time/the game, but the bars show each player's contribution stacked into total
+      - Lack of clear message: it fails to communicate a central insight - the stacking and last column's "total" running of the whole team make it unclear whether the goal is to highlight individual contribution or the team's total
+      --> cause audience confusion, and fail to "tell a story" from this visualization (reference: Cairo)
+      - Accessibility: the chart relies on a single color (blue) without visual cues, such as adding label on each bar, which makes it less intuitive
 
 
 
@@ -21,15 +30,25 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      For the good one:
+      - Can add some annotations for key climate events, such as the Kyoto Protocol or Paris Agreement
+      - Though the graph consists of red, orange and blue gradients, it is moderately color-blind friendly, while there maybe blue-yellow blindness viewers which red/orange tones are too close in brightness, using palettes with high contrast such as blue-orange only might improve the visualization accessibility (reference: WCAG)
+      - Provide a short caption to guid non-expert viewers
 
-
-
-
-
+      For the bad one:
+      - Switch to use a standard bar chart to show each player's home runs side by side
+      - Label each bar directly with the player's total to avoid confusion
+      - Add a clear title/subtitle emphasizing the team's overall lead in MLB home runs, while keeping the chart focused on player contributions
+      - if the author's goal is to highlight the "Big three" (ie Donaldson, Bautista and Encarnacion), adding a pie chart shoing their share of the total on the side would be effective
 
       
       ```
+      Reference:
+      Tufte, E. R. (1983). The Visual Display of Quantitative Information.
+      Cairo, A. (2012). The Functional Art: An Introduction to Information Graphics and Visualization.
+      World Wide Web Consortium (W3C). Web Content Accessibility Guidelines (WCAG)
+
+
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
