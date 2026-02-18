@@ -11,6 +11,8 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       For example of a Good Data Visualization: Daniel Foster's CO2 Emissions Over Time ![alt text](image.png)
+      Link: https://public.tableau.com/app/profile/daniel.foster/viz/CO2EmissionsOverTime/Dashboard1 
+      
       - Perceptual and Substantive: Line charts fit time-series data, and make trends easy to follow
       - Clear title and labels, and simple designs to avoid clutter (reference: Tufte)
       - Aesthetic: Colors are distinct and consistent, aiding readibility
@@ -18,6 +20,7 @@
 
 
       For example of a Bad Data Visualiztion: Ian's Toronto Blue Jays Home Runs ![alt text](image-1.png)
+      Link: https://public.tableau.com/app/profile/ianweiner/viz/Waterfall_Chart_0/WaterfallChart 
 
       - Substantive: it does not accurately represent the data as y-axis "Running Sum of Home Runs" implies a cumulative progression over time/the game, but the bars show each player's contribution stacked into total
       - Lack of clear message: it fails to communicate a central insight - the stacking and last column's "total" running of the whole team make it unclear whether the goal is to highlight individual contribution or the team's total
