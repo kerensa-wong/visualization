@@ -9,17 +9,23 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      For example of a Good Data Visualization: Daniel Foster's CO2 Emissions Over Time ![alt text](image.png)
-      Link: https://public.tableau.com/app/profile/daniel.foster/viz/CO2EmissionsOverTime/Dashboard1 
+
+![alt text](assignment_2_good.png)
       
+      For example of a Good Data Visualization: Daniel Foster's CO2 Emissions Over Time 
+      Link: https://public.tableau.com/app/profile/daniel.foster/viz/CO2EmissionsOverTime/Dashboard1 
+    
+
       - Perceptual and Substantive: Line charts fit time-series data, and make trends easy to follow
       - Clear title and labels, and simple designs to avoid clutter (reference: Tufte)
       - Aesthetic: Colors are distinct and consistent, aiding readibility
       - When hover over each location on the map it can show the name of location and its CO2 per capita, aiding exploration
 
+     
+![alt text](assignment_2_bad.png)
 
-      For example of a Bad Data Visualiztion: Ian's Toronto Blue Jays Home Runs ![alt text](image-1.png)
+     
+      For example of a Bad Data Visualiztion: Ian's Toronto Blue Jays Home Runs 
       Link: https://public.tableau.com/app/profile/ianweiner/viz/Waterfall_Chart_0/WaterfallChart 
 
       - Substantive: it does not accurately represent the data as y-axis "Running Sum of Home Runs" implies a cumulative progression over time/the game, but the bars show each player's contribution stacked into total
@@ -27,12 +33,11 @@
       --> cause audience confusion, and fail to "tell a story" from this visualization (reference: Cairo)
       - Accessibility: the chart relies on a single color (blue) without visual cues, such as adding label on each bar, which makes it less intuitive
 
+      
 
-
-
-      ```
-    - How could this data visualization have been improved?  
-      ```
+    
+- How could this data visualization have been improved?  
+      
       For the good one:
       - Can add some annotations for key climate events, such as the Kyoto Protocol or Paris Agreement
       - Though the graph consists of red, orange and blue gradients, it is moderately color-blind friendly, while there maybe blue-yellow blindness viewers which red/orange tones are too close in brightness, using palettes with high contrast such as blue-orange only might improve the visualization accessibility (reference: WCAG)
@@ -45,8 +50,9 @@
       - if the author's goal is to highlight the "Big three" (ie Donaldson, Bautista and Encarnacion), adding a pie chart shoing their share of the total on the side would be effective
 
       
-      ```
-      Reference:
+    
+- Reference:
+
       Tufte, E. R. (1983). The Visual Display of Quantitative Information.
       Cairo, A. (2012). The Functional Art: An Introduction to Information Graphics and Visualization.
       World Wide Web Consortium (W3C). Web Content Accessibility Guidelines (WCAG) 
